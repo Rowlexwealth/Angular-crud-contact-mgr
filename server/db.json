@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Rowland Imuentinyan",
+      "company": "RowlexCompany",
+      "email": "rowlex@gmail.com",
+      "title": "Tech360",
+      "mobile": 80109942451,
+      "photo": "./assest/img/profile-img.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobNdWnHI",
+      "name": "Rowland Row",
+      "company": "Rowlex4Company",
+      "email": "rowllex@gmail.com",
+      "title": "Techh360",
+      "mobile": "80109945450",
+      "photo": "./assest/img/profile-img.jpg",
+      "groupId": "5"
+    },
+    {
+      "id": "D6BNdWnGK",
+      "name": "Benital Closet",
+      "company": "TechCompany",
+      "email": "rowland@gmail.com",
+      "title": "Web360tech",
+      "mobile": 7081256365,
+      "photo": "assest/img/profile-img.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "K2BNdWnHI",
+      "name": "Benital Closet",
+      "company": "RowtechCompany",
+      "email": "rowland@gmail.com",
+      "title": "Web360",
+      "mobile": "80107942450",
+      "photo": "assest/img/profile-img.jpg",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
